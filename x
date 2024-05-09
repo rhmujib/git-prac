@@ -1,0 +1,52 @@
+[33mcommit 876a8527097b84f7d4a19aaaa9439a40d86f02fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: rhmujib <mujeebah789@gmail.com>
+Date:   Wed May 8 19:08:52 2024 +0500
+
+    Committed
+
+[1mdiff --git a/Primary.htm b/Primary.htm[m
+[1mindex e962641..78006ed 100644[m
+[1m--- a/Primary.htm[m
+[1m+++ b/Primary.htm[m
+[36m@@ -3,7 +3,7 @@[m
+ <body>[m
+ [m
+ <h1>Deliciousness in every bite!</h1>[m
+[31m-<p>Every cookie made at the Kevin Cookie company is crafted with only the finest ingredients. Butter from grass fed cows. Unbleached flour with the best flavor and textures. Organic sugar only from India. Eggs from chickens that listen to classical music. Even our water is vry good at something[m
+[32m+[m[32m<p>Every cookie made at the Kevin Cookie company is crafted with only the finest ingredients. Butter from grass fed cows. Unbleached flour with the best and the only good thing about this is the taste flavor and textures. Organic sugar only from India. Eggs from chickens that listen to classical music. Even our water is vry good at something[m
+ . It comes from the Cascade Mountain springs that we hike up to retrieve. Baking is our passion and we take it very seriously.</p>[m
+ [m
+ </body>[m
+
+[33mcommit f67024f6201c20cdef4ac9ae9a2c8c9716d21e1e[m
+Author: rhmujib <mujeebah789@gmail.com>
+Date:   Mon May 6 12:31:20 2024 +0500
+
+    The Name has been Changed
+
+[1mdiff --git a/index.htm b/Primary.htm[m
+[1msimilarity index 100%[m
+[1mrename from index.htm[m
+[1mrename to Primary.htm[m
+
+[33mcommit 9fbdb6e8bce682d360fe68b6a0e6bafefb577315[m
+Author: rhmujib <mujeebah789@gmail.com>
+Date:   Mon May 6 12:12:12 2024 +0500
+
+    updated text to free range
+
+[1mdiff --git a/index.htm b/index.htm[m
+[1mindex d1f1130..e962641 100644[m
+[1m--- a/index.htm[m
+[1m+++ b/index.htm[m
+[36m@@ -3,7 +3,8 @@[m
+ <body>[m
+ [m
+ <h1>Deliciousness in every bite!</h1>[m
+[31m-<p>Every cookie made at the Kevin Cookie company is crafted with only the finest ingredients. Butter from grass fed cows. Unbleached flour with the best flavor and textures. Organic sugar only from India. Eggs from chickens that listen to classical music. Even our water is special. It comes from the Cascade Mountain springs that we hike up to retrieve. Baking is our passion and we take it very seriously.</p>[m
+[32m+[m[32m<p>Every cookie made at the Kevin Cookie company is crafted with only the finest ingredients. Butter from grass fed cows. Unbleached flour with the best flavor and textures. Organic sugar only from India. Eggs from chickens that listen to classical music. Even our water is vry good at something[m
+[32m+[m[32m. It comes from the Cascade Mountain springs that we hike up to retrieve. Baking is our passion and we take it very seriously.</p>[m
+ [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
